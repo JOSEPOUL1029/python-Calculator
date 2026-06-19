@@ -10,7 +10,7 @@ A simple, clean command-Line Calculator built in Python. Built with importable f
 
 # Installation 
 '''Bash
-git clone https:
+git clone (https://github.com/JOSEPOUL1029/python-Calculator.git)
 cd python-calculator
 
 # Running the calculator
